@@ -126,7 +126,7 @@ td {
 }
 
 
-.footer {
+footer {
     padding: 40px 0;
     color: var(--Brown-800);
     font-family: "Outfit";
@@ -178,7 +178,7 @@ td {
         padding: 20px;
     }
 
-    .footer {
+    footer {
         padding: 20px;
         font-size: 16px;
 
